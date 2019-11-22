@@ -1,6 +1,7 @@
 Goal: make it easy to run an inexpensive, on-demand Minecraft server for friends
 
 # Ideas
+* Send a message to everyone when the server comes up (with IP) so they know it is time to play
 * Discord bot to launch the server (might be easier than the webapp, and also more secure than a webapp)
 * Modify the cloud-init script to wait for 10m of no connections before shutting down
 * Discord bot that shows the server status ([like this](https://www.reddit.com/r/discordapp/comments/8yn9hp/i_made_a_bot_that_shows_the_live_status_of_our/))
